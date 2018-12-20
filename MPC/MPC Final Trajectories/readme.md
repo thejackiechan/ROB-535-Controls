@@ -1,0 +1,1 @@
+These are the final center, left, and right trajectories. Center is a bit iffy at one turn but I don't think it'll be a major issue.
